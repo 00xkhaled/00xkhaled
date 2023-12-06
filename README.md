@@ -1,7 +1,8 @@
-# 00xkhaled
+![My-banner](https://media.licdn.com/dms/image/D4E16AQHZ3FXhI9EEzQ/profile-displaybackgroundimage-shrink_350_1400/0/1678259301881?e=1707350400&v=beta&t=9QtGmbhcXSl6NL4NnzL1f2YMUSjkCUWl05cFUsElbhM)
 
 <!--
 Welcome to my readme source! Glad you made it here. This just a first draft to fill the void 
+
 -->  
 
 <h3 align="center">Just another privacy-focused developer that enjoys playing with new things every day</h3> <div align="center">
@@ -35,13 +36,17 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 
 <br><br>
 
+<!--
+filler >.<
+-->  
+
+<br><br>
 
 ## 📊 GitHub Stats
 
 <!--
 Gotta love some stats
 -->  
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=00xkhaled&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" width="32%">
@@ -58,8 +63,9 @@ Aaaaaand thats it. Vewy nice
 -->  
 
 <div align="center">  
-  <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/1085349080592560169/1097954019248451635/ezgif.com-gif-maker_1.gif" height="25" />  
+  <img style="margin: 10px" src="https://media3.giphy.com/media/btz4OTQXXr4nlHTIqU/200w.webp" height="25" />  
 </div>
+
 <div align="center">
   <p>"What we do for ourselves dies with us. What we do for others and the world remains and is immortal.” ― Albert Pine</p>
 </div>
