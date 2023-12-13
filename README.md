@@ -23,13 +23,13 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png">
 </div>
 
--  I'm a `28` years old
+-  I'm `28` years old
 - 🔭 I’m currently working in [Greenbone AG ](https://www.greenbone.net)
-- 🌱 I’m currently learning `Ansible,Github Actions, K8s and Helm`
+- 🌱 I’m currently learning `Ansible, Github Actions, K8s and Helm`
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy working on:<br>
 &nbsp; ∘ &nbsp; 📊 Pentesting related Projects<br>
 &nbsp; ∘ &nbsp; 🖼 Automating stuff<br>
-&nbsp; ∘ &nbsp; 🛠 DIY Raspberry Pi Projects, Drone Prjects (Quadcopters), Flipper zero projects and CTFs<br>
+&nbsp; ∘ &nbsp; 🛠 DIY Raspberry Pi Projects, Drone Prjects (Quadcopters), Flipper zero projects and CTFs <br>
 <!-- - I'm daily-driving [Mac OS] 
 - 💬 Ask me about Python, AI, Security
 - 📙 Check out my [Website](https://khaled.xyz)
