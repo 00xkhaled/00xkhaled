@@ -24,7 +24,6 @@ This part was an absolute nightmare to figure out. Turns out that Githubs extend
 </div>
 
 -  I'm `28` years old
-- 🔭 I’m currently working in [Greenbone AG ](https://www.greenbone.net)
 - 🌱 I’m currently learning `Ansible, Github Actions, K8s and Helm`
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="16">  I enjoy working on:<br>
 &nbsp; ∘ &nbsp; 📊 Pentesting related Projects<br>
