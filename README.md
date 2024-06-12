@@ -9,7 +9,7 @@ This part was an absolute nightmare to figure out. Turns out that Github's exten
   <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png" alt="Spacer Image">
 </div>
 
-- 👤 **Name:** Khaled Daoudieh
+- 👤 **Name:** Khaled 
 - 🌱 **Currently Learning:** `Ansible`, `GitHub Actions`, `K8s`, `Helm`, `Terraform`, `Next.js`, `React`, `Traefik`, `Directus`
 - 👨‍💻 **Technologies:** `Python`, `JavaScript`, `Docker`, `AWS`, `DevOps`, `PHP`, `HTML`, `CSS`, `React`, `Node.js`, `AdonisJs`, `AngularJS`, `WordPress`, `Ruby on Rails`, `Java`, `C`, `C++`
 - 💬 **Languages:** English, German, Arabic
