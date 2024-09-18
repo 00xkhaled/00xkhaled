@@ -3,7 +3,6 @@
 <!--
 This part was an absolute nightmare to figure out. Turns out that Github's extended markdown is scuffed as hell. Left-embedded gifs break everything, so what you see below is the only way to fix it. I seem to be the only one to have even gotten that far.
 -->  
-
 <div>
   <img align="left" height="260vh" src="https://i.giphy.com/media/l0HlHwC9qKL5Y9HMs/giphy.webp" alt="Coding GIF">
   <img align="left" height="260vh" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/1_120_transparent.png" alt="Spacer Image">
@@ -20,7 +19,10 @@ This part was an absolute nightmare to figure out. Turns out that Github's exten
   - 🖼 Automating stuff.
   - 🛠 DIY Raspberry Pi projects, drone projects (quadcopters), Flipper Zero projects, and CTFs.
 
-<br><br>
+<br>
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
+
 
 ## 📊 GitHub Stats
 
