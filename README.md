@@ -1,5 +1,6 @@
 ## ⚡️ A Few Quick Facts
 
+## Achievement Unlocked : Meet My lovely 😍 girlfriend on Github  
 <!--
 This part was an absolute nightmare to figure out. Turns out that Github's extended markdown is scuffed as hell. Left-embedded gifs break everything, so what you see below is the only way to fix it. I seem to be the only one to have even gotten that far.
 -->  
